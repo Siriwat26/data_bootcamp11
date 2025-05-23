@@ -15,5 +15,6 @@ This bootcamp run about 4 months, 10 sprints.
 - Dashboard
 
 Website: [https://siriwatwachi.wordpress.com/2025/05/21/home/]
-Email: Siriwat.wachira26@gmail.com
+
+Email: [Siriwat.wachira26@gmail.com]
 🌹
