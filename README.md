@@ -1,6 +1,8 @@
 # data_bootcamp11
 Data Science Bootcamp Projects
 
+This class is awesome!!
+
 This bootcamp run about 4 months, 10 sprints.
 
 - Google Sheets
@@ -11,7 +13,7 @@ This bootcamp run about 4 months, 10 sprints.
 - Statistics
 - Machine Learning
 - Website WordPress
-- Python
+- Python for data Analyst
 - Dashboard
 
 Website: [https://siriwatwachi.wordpress.com/2025/05/21/home/]
